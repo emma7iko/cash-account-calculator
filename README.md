@@ -1,5 +1,6 @@
 # Cash Account Calculator
 **A responsive web application to manage and calculate cash accounts efficiently.**
+![screenshot](screenshot.png)
 
 ---
 
