@@ -27,7 +27,7 @@ This project comprises the following key files:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Emmatiko101/cash-account-calculator.git  
+   git clone https://github.com/emma7iko/cash-account-calculator.git  
    ```  
 2. Navigate to the project folder:  
    ```bash  
